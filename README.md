@@ -4,7 +4,7 @@ Robotics & AI Engineering student @ BIT Bengaluru | Building systems, AI infra &
 
 
 🔭 Into: systems engineering, AI/ML applications, DevOps/SRE tooling
-🎯 Prepping for: CDS/AFT (defence services)
+
 🌐 Portfolio: [static-repo-tau.vercel.app](https://static-repo-tau.vercel.app)
 
 ---
