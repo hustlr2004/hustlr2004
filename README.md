@@ -43,13 +43,7 @@ MERN stack.
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hustlr2004&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hustlr2004&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-📫 Reach me: [LinkedIn](#) | [Portfolio](https://static-repo-tau.vercel.app)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gourav-singh-rawat-builds/) | [Portfolio](https://static-repo-tau.vercel.app)
