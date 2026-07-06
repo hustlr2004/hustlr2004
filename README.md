@@ -1,7 +1,7 @@
 # Hey, I'm Gourav 👋
 
 Robotics & AI Engineering student @ BIT Bengaluru | Building systems, AI infra & safety-tech
-Currently: Project Management Intern @ Power Finance Corporation, New Delhi
+
 
 🔭 Into: systems engineering, AI/ML applications, DevOps/SRE tooling
 🎯 Prepping for: CDS/AFT (defence services)
