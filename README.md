@@ -13,14 +13,15 @@ Robotics & AI Engineering student @ BIT Bengaluru | Building systems, AI infra &
 
 **[SAVIOUR](https://github.com/hustlr2004/SAVIOUR)** — Android personal safety app
 Shake detection + TensorFlow Lite audio classification + Firebase + GPS + SMS/WhatsApp alerting.
-🏆 3rd place, Project Expo
+
+ **[ChaosLab](https://github.com/hustlr2004/ChaosLab)** — Chaos engineering platform
+Node.js/Express, BullMQ/Redis, Dockerode, Prometheus, k6, React/Vite — fault injection & resilience testing.
 
 **[ChaosLab](https://github.com/hustlr2004/ChaosLab)** — Chaos engineering platform
 Node.js/Express, BullMQ/Redis, Dockerode, Prometheus, k6, React/Vite — fault injection & resilience testing.
 
 **[MolGenix](https://github.com/hustlr2004/MolGenix)** — AI drug discovery platform
 FastAPI, DeepChem, RDKit, ChromaDB, AutoDock Vina.
-🏆 2nd place, HackSurgeX (Team NCINC)
 
 **[Automaton Voice Bot](https://github.com/hustlr2004/automaton-voice-bot)** — Multilingual voicebot
 Twilio + FastAPI + React/Vite. Supports English, Hindi, Kannada, Marathi.
