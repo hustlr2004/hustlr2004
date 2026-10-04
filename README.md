@@ -1,6 +1,6 @@
 # Hey, I'm Gourav 👋
 
-Robotics & AI Engineering student @ BIT Bengaluru | Building systems, AI infra & safety-tech
+Robotics & AI Engineering student| Building systems, AI infra & safety-tech
 
 
 🔭 Into: systems engineering, AI/ML applications, DevOps/SRE tooling
